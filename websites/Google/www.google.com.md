@@ -1,5 +1,7 @@
 # Google
 
+![Google](images/1.png)
+
 The following snippet does not use `*` selector for css, due to how many other Google's own pages share the same `www.google.com` address between them.
 
 ```css
